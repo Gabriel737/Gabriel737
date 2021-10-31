@@ -9,5 +9,5 @@ An aspiring Software Engineer 🚀 with interests in Full-Stack Software Develop
 - 📫 How to reach me: gabriel_henderson@sfu.ca
 - 🔗 Connect with me: https://www.linkedin.com/in/gabrielhenderson/
 - 🌐 View my website: https://gabriel737.github.io/
-- ⚡ Fun fact: I hold a Commercial Pilot's License and have logged over 1000 hours of flight time
+- ⚡ Fun fact: I hold a Commercial Pilot's License and have logged over 1000 hours of flight time ✈️
 - 😄 Pronouns: He/Him
